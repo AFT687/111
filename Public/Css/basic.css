@@ -1,0 +1,52 @@
+.clude{
+			width: 980px;
+			margin: 0 auto;
+		}
+		.msgleft{
+			width: 650px;
+			display: inline-block;
+		}
+		.msgright{
+			width: 320px;
+			display: inline-block;
+			position: absolute;
+		}
+		.msgcore{
+			display: inline-block;
+		}
+		.remark{
+			color: #777;
+			font-size: 14px;
+			height: 30px;
+			line-height: 30px;
+		}
+		.recommoned{
+			font-size: 18px;
+			font-weight: bold;
+			color: #333;
+			font-family: '微软雅黑';
+		}
+		.title{
+			height: 30px;
+			line-height: 30px;
+			font-family: '微软雅黑';
+		}
+		.title a{
+			color: #ff3030;
+		}
+		#page div{
+			display: inline-block;
+			border: 1px solid #ff0000;
+			padding: 2px;
+			width: 16px;
+			height: 20px;
+			line-height: 20px;
+			font-family: '微软雅黑';
+			margin-left: 5px;
+		}
+		#page div a{
+			text-decoration: none;
+			width: 16px;
+			text-align: center;
+			position: absolute;
+		}

@@ -1,0 +1,49 @@
+.msg{
+			position: relative;
+			font-size: 24px;
+			height: 36px;
+			line-height: 36px;
+			border-radius: 10px;
+			z-index: 9;
+			color: #fff;
+			background-color: #7EC0EE;
+			box-shadow: 0 0 30px #7EC0EE;
+			margin-bottom: 2px;
+			cursor: pointer;
+		}
+		.fl_1{
+			font-size: 20px;
+			height: 36px;
+			line-height: 36px;
+			cursor: pointer;
+		}
+		.f_msg{
+			position: relative;
+			z-index: 1;
+		}
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		html,body{
+			height: 100%;
+		}
+		.ctl_left{
+			height: 100%;
+			width: 280px;
+			display: inline-block;
+			margin-left: 5px;
+		}
+		.ctl_left div{
+			text-align: center;
+		}
+		.ctl_right{
+			width: 1060px;
+			height: 97%;
+			margin-left: 10px;
+			display: inline-block;
+			position: absolute;
+			border-radius: 10px;
+			border: 1px solid #7EC0EE;
+			margin-top: 10px;
+		}
