@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>我的博客</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="__CSS__/basic.css">
+</head>
+<body>
+	<include file='./Application/Home/View/shared/nav.html' />
+    <div class="clude">
+    	<div class="recommoned">文章推荐</div>
+    	<div class="msgleft">
+	    	<foreach name="content" item="v" key="k">
+	      	  <div>
+	    			<div class="title"><a href="{:U('Content/message',array('id'=> $v['id']))}" style="text-decoration:none">{$v.title}</a></div>
+	    			<div>
+	    				<div class="msgcore"><img src="{$v['img']}" width="200px" height="200px"></div>
+	    				<div class="msgcore" style="position:absolute;width:400px;margin:10px 0 0 30px"><div style="overflow:hidden;text-overflow:ellipsis;max-height:144px">{$v.content_part}</div>
+	    				<div style="text-align:right;margin-top:10px;"><a href="{:U('Content/message',array('id'=> $v['id']))}" style="text-decoration:none;border:2px solid #F4A460;padding:5px;background-color:#F4A460;color:#fff;border-radius:5px;">阅读全文</a></div>
+	    				</div>
+	    			</div>
+	    			<div class="remark">发布时间: {$v.time}&nbsp作者: {$v.author}</div>
+	    		</div>
+	   		 </foreach>
+	   		 <input name="num" type="hidden" value="{$num}" id="num">
+	   		 <input name="npage" type="hidden" value="{$npage}" id="npage">
+	   		 <div id="page"></div>
+	    </div>
+	    <div class="msgright"></div>
+	</div>
+</body>
+<script type="text/javascript">
+	window.onload = function(){
+		var num = document.getElementById('num').value;
+		var page = document.getElementById('page');
+		var npage = document.getElementById('npage').value;
+		if (npage) {
+			var l = npage - 1;
+			var r = npage*1 + 1;
+			var x = document.createElement('a');
+			var span = document.createTextNode('<');
+			var div = document.createElement('div');
+			x.setAttribute('href',"{:U('Content/diary/p/"+l+"')}");
+			x.appendChild(span);
+			div.appendChild(x);
+			page.appendChild(div);
+			for (var i = 0; i < num; i++) {
+				var x = document.createElement('a');
+				var span = document.createTextNode(i+1);
+				var div = document.createElement('div');
+				x.setAttribute('href',"{:U('Content/diary/p/"+(i+1)+"')}");
+				x.appendChild(span);
+				div.appendChild(x);
+				page.appendChild(div);
+			}
+			var x = document.createElement('a');
+			var span = document.createTextNode('>');
+			var div = document.createElement('div');
+			x.setAttribute('href',"{:U('Content/diary/p/"+r+"')}");
+			x.appendChild(span);
+			div.appendChild(x);
+			page.appendChild(div);
+		}
+	}
+</script>
+</html> 

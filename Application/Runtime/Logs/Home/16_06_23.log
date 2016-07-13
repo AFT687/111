@@ -1,0 +1,1047 @@
+[ 2016-06-23T00:00:40+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pdata D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:00:51+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-23T00:00:55+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:00:55+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:01:02+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pdata D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:01:08+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pdata D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:01:41+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+
+[ 2016-06-23T00:01:44+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+
+[ 2016-06-23T00:01:55+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+
+[ 2016-06-23T00:02:20+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+
+[ 2016-06-23T00:02:35+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+
+[ 2016-06-23T00:02:55+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+
+[ 2016-06-23T00:03:41+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:03:41+08:00 ] ::1 /abc/index.php/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:04:29+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:04:29+08:00 ] ::1 /abc/index.php/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-23T00:04:44+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:04:44+08:00 ] ::1 /abc/index.php/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:04:57+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:07:17+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-23T00:07:43+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-23T00:08:07+08:00 ] ::1 /abc/index.php/Index/aboutme.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:10+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:17+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:17+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:17+08:00 ] ::1 /abc/index.php/Index/index/p/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:21+08:00 ] ::1 /abc/index.php/Index/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:24+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:24+08:00 ] ::1 /abc/index.php/Index/index/p/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:24+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:08:27+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-23T00:08:27+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-23T00:09:08+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:09:09+08:00 ] ::1 /abc/index.php/Index/index/p/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:09:09+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:09:13+08:00 ] ::1 /abc/index.php/Index/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:09:27+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T00:09:27+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-23T00:09:27+08:00 ] ::1 /abc/index.php/Index/index/p/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:13:33+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.025002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015000s ]
+
+[ 2016-06-23T20:52:37+08:00 ] ::1 /abc/Application/Home/Controller/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Application
+
+[ 2016-06-23T20:53:01+08:00 ] ::1 /abc/index.php/Home/Controller/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Home
+
+[ 2016-06-23T20:53:18+08:00 ] ::1 /abc/index.php.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index.php
+
+[ 2016-06-23T20:53:34+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:53:37+08:00 ] ::1 /abc/index.php.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:53:43+08:00 ] ::1 /abc/index.php/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:53:43+08:00 ] ::1 /abc/index.php/Index/index/p/Uploads/56001a5d3130e.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-23T20:53:43+08:00 ] ::1 /abc/index.php/Index/Uploads/560019cf89c74.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:54:04+08:00 ] ::1 /abc/index.php.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Index.php
+
+[ 2016-06-23T20:54:17+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T20:54:57+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T21:04:23+08:00 ] ::1 /abc/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T21:04:55+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T21:09:34+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T21:10:02+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 19 行.
+SQL: SELECT * FROM `aft_page_limit`  [ RunTime:0.0000s ]
+
+[ 2016-06-23T21:10:28+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 19 行.
+SQL: SELECT * FROM `aft_page_limit` WHERE `id` = 0  [ RunTime:0.0010s ]
+
+[ 2016-06-23T21:10:37+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: limit D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 19 行.
+SQL: SELECT * FROM `aft_page_limit`  [ RunTime:0.0010s ]
+
+[ 2016-06-23T21:11:34+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=1 )  [ RunTime:0.0000s ]
+
+[ 2016-06-23T21:11:44+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=2 )  [ RunTime:0.0020s ]
+
+[ 2016-06-23T21:11:55+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE `id` = 0  [ RunTime:0.0010s ]
+
+[ 2016-06-23T21:12:19+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=2 )  [ RunTime:0.0000s ]
+
+[ 2016-06-23T21:12:27+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=1 )  [ RunTime:0.0000s ]
+
+[ 2016-06-23T21:12:51+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=1 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T21:13:03+08:00 ] ::1 /abc/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: vv D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-23T22:04:08+08:00 ] ::1 /abc/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `aft_message_content` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined variable: id D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 7 行.
+SQL: SELECT * FROM `aft_message_content`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aft_page_limit` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `aft_page_limit` WHERE ( id=1 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: page D:\WWW\abc\Application\Home\Controller\IndexController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
